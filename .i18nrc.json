@@ -1,0 +1,7 @@
+{
+  "prefix": "hostOverview",
+  "paths": {
+    "hostOverview": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}

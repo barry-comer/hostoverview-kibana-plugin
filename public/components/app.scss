@@ -1,0 +1,45 @@
+.ctApp {
+    .df {
+        display: flex;
+
+        &.ffc {
+            flex-flow: column;
+        }
+
+        &.sb {
+            justify-content: space-between;
+        }
+
+        &.sa {
+            justify-content: space-around;
+        }
+
+        &.jc {
+            justify-content: center;
+        }
+
+        &.jr {
+            justify-content: flex-end;
+        }
+
+        &.jl {
+            justify-content: flex-start;
+        }
+
+        &.acc {
+            align-content: center;
+        }
+
+        &.aic {
+            align-items: center;
+        }
+
+        &.rw {
+            flex-flow: row wrap;
+        }
+    }
+    .ctDetail{
+        padding: 30px;
+        line-height: 52px;
+    }
+}
